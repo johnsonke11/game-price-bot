@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.pyc
+app_list_cache.json
+.git/
+terraform/
