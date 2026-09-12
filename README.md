@@ -53,6 +53,12 @@ recommendations always point to something actually purchasable.
 - Runs as a **Discord bot**, deployed on a **GCP e2-micro VM** via
   Terraform + Docker
 
+## Add it to your own server
+
+[Click here to invite the bot](https://discord.com/oauth2/authorize?client_id=1547775745219108935)
+
+Once added, @mention it in any channel it can see — e.g. `@YourBotName how much is Hades?`
+
 ## Tech stack
 
 | Layer | Tool |
